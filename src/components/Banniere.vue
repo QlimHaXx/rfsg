@@ -71,6 +71,7 @@
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn flat to="/skins">Skins</v-btn>
+        <v-btn flat to="/stream">Stream</v-btn>
         <v-btn flat>Drop</v-btn>
         <v-btn flat>Missions</v-btn>
       </v-toolbar-items>
